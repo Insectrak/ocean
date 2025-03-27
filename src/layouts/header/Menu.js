@@ -105,13 +105,13 @@ const Menu = () => {
           </ul>
         </li>
         <li className="menu-item has-children">
-          <a href="#">
+          <a href="contact">
             Contacto
-            <span className="dd-trigger">
+            {/*<span className="dd-trigger">
               <i className="far fa-angle-down" />
-            </span>
+            </span> */}
           </a>
-          <ul className="sub-menu">
+          {/*<ul className="sub-menu">
             <li>
               <Link legacyBehavior href="team">
                 Our Team
@@ -147,7 +147,7 @@ const Menu = () => {
                 Contact
               </Link>
             </li>
-          </ul>
+          </ul> */}
         </li>
       </ul>
     </nav>

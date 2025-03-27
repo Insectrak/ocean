@@ -170,7 +170,7 @@ const Default = () => {
                   </Link>
                 </div>
                 {/*=== Nav Search ===*/}
-                <div className="nav-search mb-30 d-block d-xl-none ">
+                {/*<div className="nav-search mb-30 d-block d-xl-none ">
                   <form onSubmit={(e) => e.preventDefault()}>
                     <div className="form_group">
                       <input
@@ -185,27 +185,27 @@ const Default = () => {
                       </button>
                     </div>
                   </form>
-                </div>
+                </div> */}
                 {/*====== main Menu ======*/}
                 <Menu />
                 {/*====== Menu Button ======*/}
                 <div className="menu-button mt-40 d-xl-none">
                   <Link legacyBehavior href="/contact">
-                    <a className="main-btn secondary-btn">Get a Quote</a>
+                    <a className="main-btn secondary-btn">Contáctanos</a>
                   </Link>
                 </div>
               </div>
               {/*====== Nav Right Item ======*/}
               <div className="nav-right-item">
-                <div className="lang-dropdown">
+                {/*<div className="lang-dropdown">
                   <select className="wide" style={{ display: "none" }}>
                     <option value="English">English</option>
                     <option value="French">French</option>
                   </select>
-                </div>
+                </div> */}
                 <div className="menu-button d-xl-block d-none">
                   <Link legacyBehavior href="/contact">
-                    <a className="main-btn primary-btn">Get a Quote</a>
+                    <a className="main-btn primary-btn">Contáctanos</a>
                   </Link>
                 </div>
                 <div className="navbar-toggler">
