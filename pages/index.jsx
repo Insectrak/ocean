@@ -132,13 +132,13 @@ const Index3 = () => {
                         data-animation="fadeInUp"
                         data-delay=".4s"
                       >
-                        Beautiful Gardening
+                        Ocean
                       </span>
                       <h1 data-animation="fadeInDown" data-delay=".5s">
-                        Gardening
+                         Tu hogar con vista al mar te espera
                       </h1>
                       <p data-animation="fadeInUp" data-delay=".6s">
-                        We Provide Beautiful Gardening &amp; Landscaping
+                      Vive rodeado de exclusividad, comodidad y una vista inigualable en Camaná.
                       </p>
                       <div
                         className="hero-button mb-30"
