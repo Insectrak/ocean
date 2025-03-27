@@ -5,7 +5,7 @@ const Menu = () => {
     <nav className="main-menu">
       <ul>
         <li className="menu-item has-children">
-          <a href="#">
+          <a href="/">
             Home
             {/*<span className="dd-trigger">
               <i className="far fa-angle-down" />
@@ -31,12 +31,12 @@ const Menu = () => {
         </li>
         <li className="menu-item">
           <Link legacyBehavior href="about">
-            About
+            Proyecto
           </Link>
         </li>
         <li className="menu-item has-children">
           <a href="#">
-            Service
+            Servicios
             <span className="dd-trigger">
               <i className="far fa-angle-down" />
             </span>
@@ -44,19 +44,19 @@ const Menu = () => {
           <ul className="sub-menu">
             <li>
               <Link legacyBehavior href="service">
-                Our Service
+                Amenidades
               </Link>
             </li>
             <li>
               <Link legacyBehavior href="service-details">
-                Service Details
+                Servicios
               </Link>
             </li>
           </ul>
         </li>
         <li className="menu-item has-children">
           <a href="#">
-            Portfolio
+            Ubicación
             <span className="dd-trigger">
               <i className="far fa-angle-down" />
             </span>
@@ -86,7 +86,7 @@ const Menu = () => {
         </li>
         <li className="menu-item has-children">
           <a href="#">
-            Blog
+            Testimonios
             <span className="dd-trigger">
               <i className="far fa-angle-down" />
             </span>
@@ -106,7 +106,7 @@ const Menu = () => {
         </li>
         <li className="menu-item has-children">
           <a href="#">
-            Pages
+            Contacto
             <span className="dd-trigger">
               <i className="far fa-angle-down" />
             </span>

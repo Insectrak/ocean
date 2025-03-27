@@ -211,7 +211,7 @@
       width: 100%;
       height: 100%;
       @include border-radius(20px);
-      background-color: rgba(11, 61, 44, 0.85);
+      background-color: #073847;
       padding: 40px 40px 50px;
       @extend %flex-center;
       align-items: flex-end;
@@ -271,7 +271,7 @@
       left: 0;
       width: 100%;
       height: 100%;
-      background-color: rgba(11, 61, 44, 0.85);
+      background-color: #073847;
       @include border-radius(20px);
       display: flex;
       align-items: flex-end;

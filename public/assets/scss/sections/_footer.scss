@@ -39,10 +39,10 @@
             & ul{
                 & li{
                     & a{
-                        color: #2f2f2f;
+                        color: #073847;
                         &:hover{
                             &:after{
-                                background-color: #2f2f2f;
+                                background-color: #073847;
                             }
                         }
                     }
@@ -93,9 +93,9 @@
                 box-shadow: 0px 5px 60px rgba(0, 0, 0, 0.05);
                 padding: 20px 55px 20px 25px;
                 line-height: 1.5;
-                color: #2f2f2f;
+                color: #073847;
                 @include placeholder{
-                    color: #2f2f2f;
+                    color: #073847;
                 }
             }
             & .submit-btn{
