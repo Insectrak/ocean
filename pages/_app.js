@@ -25,7 +25,8 @@ const App = ({ Component, pageProps }) => {
           content="width=device-width, initial-scale=1, shrink-to-fit=no"
         />
         {/*====== Title ======*/}
-        <title>Gadden - Garden &amp; Landscaping React NextJS Template</title>
+        {/*<title>Gadden - Garden &amp; Landscaping React NextJS Template</title> */}
+        <title>Ocean</title>
         {/*====== Favicon Icon ======*/}
         <link
           rel="shortcut icon"
