@@ -173,17 +173,15 @@ const Index3 = () => {
               <div className="section-title mb-55 wow fadeInLeft">
                 <span className="sub-title">
                   <i className="flaticon-plant" />
-                  What We Do For Gardening
+                  Tu hogar con vista al mar te espera
                 </span>
-                <h2>We Care Your Garden &amp; Landscaping</h2>
+                <h2>Ocean</h2>
               </div>
             </div>
             <div className="col-lg-6">
               <div className="features-content-box mb-55 wow fadeInRight">
                 <p>
-                  Sed perspiciatis unde omnis isnatu volunteer accusantium
-                  doloremque laudantium totam rem apeira eaque ipsa quae ab
-                  eillo inventore veritatis et quasi architecto beatae vitae
+                Ocean Condominios es un exclusivo desarrollo frente al mar que ofrece terrenos desde 189 m² hasta 484 m². Su ubicación privilegiada en la Panamericana, frente a Cerrillos, lo convierte en la mejor opción para invertir o vivir rodeado de naturaleza y confort.
                 </p>
                 <Link legacyBehavior href="/about">
                   <a className="btn-link">
