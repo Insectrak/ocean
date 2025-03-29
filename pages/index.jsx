@@ -183,12 +183,12 @@ const Index3 = () => {
                 <p>
                 Ocean Condominios es un exclusivo desarrollo frente al mar que ofrece terrenos desde 189 m² hasta 484 m². Su ubicación privilegiada en la Panamericana, frente a Cerrillos, lo convierte en la mejor opción para invertir o vivir rodeado de naturaleza y confort.
                 </p>
-                <Link legacyBehavior href="/about">
+                {/*<Link legacyBehavior href="/about">
                   <a className="btn-link">
                     Learn More
                     <i className="far fa-angle-double-right" />
                   </a>
-                </Link>
+                </Link> */}
               </div>
             </div>
           </div>
