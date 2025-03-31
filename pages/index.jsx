@@ -1379,9 +1379,9 @@ const Index3 = () => {
               <div className="section-title wow fadeInRight mb-50">
                 <span className="sub-title">
                   <i className="flaticon-plant" />
-                  Contact Us
+                  Contáctanos
                 </span>
-                <h2>Ready to Work With Us</h2>
+                <h2>Tu hogar ideal te espera</h2>
               </div>
             </div>
           </div>
