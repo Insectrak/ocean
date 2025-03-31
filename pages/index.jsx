@@ -49,7 +49,7 @@ const Index3 = () => {
                         data-animation="fadeInDown"
                         data-delay=".7s"
                       >
-                        <Link legacyBehavior href="/about">
+                        {/*<Link legacyBehavior href="/about">
                           <a className="main-btn golden-btn mb-10">
                             Explore More
                           </a>
@@ -58,7 +58,7 @@ const Index3 = () => {
                           <a className="main-btn filled-btn filled-white mb-10">
                             How It Work
                           </a>
-                        </Link>
+                        </Link> */}
                       </div>
                     </div>
                   </div>
@@ -97,7 +97,7 @@ const Index3 = () => {
                         data-animation="fadeInDown"
                         data-delay=".7s"
                       >
-                        <Link legacyBehavior href="/about">
+                        {/*<Link legacyBehavior href="/about">
                           <a className="main-btn golden-btn mb-10">
                             Explore More
                           </a>
@@ -106,7 +106,7 @@ const Index3 = () => {
                           <a className="main-btn filled-btn filled-white mb-10">
                             How It Work
                           </a>
-                        </Link>
+                        </Link> */}
                       </div>
                     </div>
                   </div>
@@ -145,7 +145,7 @@ const Index3 = () => {
                         data-animation="fadeInDown"
                         data-delay=".7s"
                       >
-                        <Link legacyBehavior href="/about">
+                        {/*<Link legacyBehavior href="/about">
                           <a className="main-btn golden-btn mb-10">
                             Explore More
                           </a>
@@ -154,7 +154,7 @@ const Index3 = () => {
                           <a className="main-btn filled-btn filled-white mb-10">
                             How It Work
                           </a>
-                        </Link>
+                        </Link> */}
                       </div>
                     </div>
                   </div>
