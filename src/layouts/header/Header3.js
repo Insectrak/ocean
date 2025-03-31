@@ -17,6 +17,9 @@ const Header3 = () => {
         handleClose={() => setSearchModal(false)}
       />
       <header className="header-area header-three">
+        <a href="https://wa.link/futtim" class="floatw" target="_blank">
+         <i class="fab fa-whatsapp w-float"></i>
+        </a>
         {/*<div className="header-top-bar-two white-bg d-none d-xl-block">
           <div className="container-fluid">
             <div className="row">
