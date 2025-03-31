@@ -43,10 +43,10 @@ const Footer3 = () => {
                         </a>
                       </Link>
                     </div>
-                    <p>
+                    {/*<p>
                       Quis autem eum reprehenderit volutate velit quam molestiae
                       conseuatur{" "}
-                    </p>
+                    </p> */}
                     {/*<Link legacyBehavior href="/contact">
                       <a className="main-btn filled-btn filled-white">
                         Contact Us
