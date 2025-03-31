@@ -17,11 +17,11 @@ const Header3 = () => {
         handleClose={() => setSearchModal(false)}
       />
       <header className="header-area header-three">
-        <div className="header-top-bar-two white-bg d-none d-xl-block">
+        {/*<div className="header-top-bar-two white-bg d-none d-xl-block">
           <div className="container-fluid">
             <div className="row">
               <div className="col-lg-8">
-                {/*====== Top Left ======*/}
+                {/*====== Top Left ======
                 <div className="top-left">
                   <span>
                     <i className="far fa-envelope" />
@@ -40,7 +40,7 @@ const Header3 = () => {
                 </div>
               </div>
               <div className="col-lg-4">
-                {/*====== Top Right ======*/}
+                {/*====== Top Right ======
                 <div className="top-right float-lg-right">
                   <ul className="social-link">
                     <li>
@@ -59,8 +59,8 @@ const Header3 = () => {
                 </div>
               </div>
             </div>
-          </div>
-        </div>
+          </div> 
+        </div>*/}
         {/*======= Header Navigation ======*/}
         <div className="header-navigation main-bg navigation-white d-xl-block d-none">
           <div className="nav-overlay" />
@@ -138,14 +138,14 @@ const Header3 = () => {
                     <a className="main-btn secondary-btn">Contáctanos</a>
                   </Link>
                 </div>
-                <div
+                {/*<div
                   className="bar-button"
                   data-toggle="modal"
                   data-target="#sidebar-modal"
                   onClick={handleShow}
                 >
                   <img src="assets/images/bar2.png" alt="Image" />
-                </div>
+                </div> */}
                 <div className="navbar-toggler">
                   <span />
                   <span />

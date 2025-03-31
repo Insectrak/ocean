@@ -113,14 +113,14 @@ const Default = () => {
               <div className="col-lg-3">
                 {/*====== menu Right Item ======*/}
                 <div className="menu-right-item">
-                  <span
+                 {/*} <span
                     className="search-btn"
                     data-toggle="modal"
                     data-target="#search-modal"
                     onClick={() => setSearchModal(true)}
                   >
                     <i className="far fa-search" />
-                  </span>
+                  </span> */}
                   <span
                     className="bar-btn"
                     data-toggle="modal"
@@ -128,7 +128,7 @@ const Default = () => {
                     onClick={handleShow}
                   >
                     <img src="assets/images/bar.png" alt="Image" />
-                  </span>
+                  </span> 
                 </div>
               </div>
             </div>

@@ -16,7 +16,7 @@ const Team = () => {
                 <div className="section-title mb-25">
                   <span className="sub-title">
                     <i className="flaticon-plant" />
-                    Pricing Plan
+                    Pricing Plana
                   </span>
                   <h2>Smart Pricing Package</h2>
                 </div>

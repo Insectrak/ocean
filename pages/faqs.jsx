@@ -168,7 +168,7 @@ const Faqs = () => {
               <div className="section-title text-center mb-50 wow fadeInDown">
                 <span className="sub-title">
                   <i className="flaticon-plant" />
-                  Pricing Plan
+                  Pricing Planw
                 </span>
                 <h2>Smart Pricing Package</h2>
               </div>

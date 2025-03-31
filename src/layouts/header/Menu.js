@@ -30,18 +30,18 @@ const Menu = () => {
           </ul> */}
         </li>
         <li className="menu-item">
-          <Link legacyBehavior href="about">
+          <Link legacyBehavior href="/#about">
             Proyecto
           </Link>
         </li>
         <li className="menu-item has-children">
-          <a href="#">
+          <a href="/#service">
             Servicios
-            <span className="dd-trigger">
+            {/*<span className="dd-trigger">
               <i className="far fa-angle-down" />
-            </span>
+            </span> */}
           </a>
-          <ul className="sub-menu">
+          {/*<ul className="sub-menu">
             <li>
               <Link legacyBehavior href="service">
                 Amenidades
@@ -52,9 +52,9 @@ const Menu = () => {
                 Servicios
               </Link>
             </li>
-          </ul>
+          </ul> */}
         </li>
-        <li className="menu-item has-children">
+        {/*<li className="menu-item has-children">
           <a href="#">
             Ubicación
             <span className="dd-trigger">
@@ -83,15 +83,15 @@ const Menu = () => {
               </Link>
             </li>
           </ul>
-        </li>
+        </li> */}
         <li className="menu-item has-children">
-          <a href="#">
+          <a href="/#testimonios">
             Testimonios
-            <span className="dd-trigger">
+            {/*<span className="dd-trigger">
               <i className="far fa-angle-down" />
-            </span>
+            </span> */}
           </a>
-          <ul className="sub-menu">
+          {/*<ul className="sub-menu">
             <li>
               <Link legacyBehavior href="blog-standard">
                 Blog Standard
@@ -102,10 +102,10 @@ const Menu = () => {
                 Blog Details
               </Link>
             </li>
-          </ul>
+          </ul> */}
         </li>
         <li className="menu-item has-children">
-          <a href="contact">
+          <a href="/#contact">
             Contacto
             {/*<span className="dd-trigger">
               <i className="far fa-angle-down" />

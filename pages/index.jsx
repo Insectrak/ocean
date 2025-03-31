@@ -166,7 +166,7 @@ const Index3 = () => {
       </section>
       {/*====== End Banner Section ======*/}
       {/*====== Start Features Section ======*/}
-      <section className="features-section pt-95">
+      <section className="features-section pt-95" id="about">
         <div className="container">
           <div className="row align-items-xl-center">
             <div className="col-lg-6">
@@ -208,8 +208,8 @@ const Index3 = () => {
                   <div className="icon">
                     <i className="flaticon-landscape-1" />
                   </div>
-                  <h5 className="title">Gardens</h5>
-                  <p>Sed perspiciatis unde omnis volunteer accusantium</p>
+                  <h5 className="title">Ubicación</h5>
+                  <p>Ubicación estratégica en Camaná</p>
                 </div>
               </div>
             </div>
@@ -228,8 +228,8 @@ const Index3 = () => {
                   <div className="icon">
                     <i className="flaticon-watering-can" />
                   </div>
-                  <h5 className="title">Urbans</h5>
-                  <p>Sed perspiciatis unde omnis volunteer accusantium</p>
+                  <h5 className="title">Club &amp; Privado</h5>
+                  <p>Acceso a club privado</p>
                 </div>
               </div>
             </div>
@@ -248,8 +248,8 @@ const Index3 = () => {
                   <div className="icon">
                     <i className="flaticon-lawnmower" />
                   </div>
-                  <h5 className="title">Maintenance</h5>
-                  <p>Sed perspiciatis unde omnis volunteer accusantium</p>
+                  <h5 className="title">Infraestructura</h5>
+                  <p>Infraestructura moderna y segura</p>
                 </div>
               </div>
             </div>
@@ -268,8 +268,8 @@ const Index3 = () => {
                   <div className="icon">
                     <i className="flaticon-spider-plant" />
                   </div>
-                  <h5 className="title">Event &amp; Programs</h5>
-                  <p>Sed perspiciatis unde omnis volunteer accusantium</p>
+                  <h5 className="title">Plusvalía</h5>
+                  <p>Plusvalía garantizada</p>
                 </div>
               </div>
             </div>
@@ -339,7 +339,7 @@ const Index3 = () => {
       </section>
       {/*====== End About Section ======*/}
       {/*====== Start Service Section ======*/}
-      <section className="service-bgc-section p-r z-1 main-bg pt-150 pb-70">
+      <section className="service-bgc-section p-r z-1 main-bg pt-150 pb-70" id="service">
         <div className="shape shape-one">
           <span>
             <img src="assets/images/shape/leaf-1.png" alt="Leaf Png" />
@@ -566,13 +566,13 @@ const Index3 = () => {
       </section>
       {/*====== End Service Section ======*/}
       {/*====== Start Skills Section  ======*/}
-      <section className="skills-section pt-100 pb-50">
+      {/*<section className="skills-section pt-100 pb-50">
         <div className="container">
           <div className="row align-items-lg-center">
             <div className="col-xl-6 col-lg-12">
-              {/*====== Skill Content Box ======*/}
+              {/*====== Skill Content Box ======
               <div className="skill-content-box mb-35 mr-lg-50 wow fadeInLeft">
-                {/*====== Section-title ======*/}
+                {/*====== Section-title ======
                 <div className="section-title mb-25">
                   <span className="sub-title">
                     <i className="flaticon-plant" />
@@ -586,7 +586,7 @@ const Index3 = () => {
                   ipsa quae abilloy inventore veritatis et quasi architecto
                   beatae vitae dicta sunt
                 </p>
-                {/*====== Skills List ======*/}
+                {/*====== Skills List ======
                 <ul className="skills-list">
                   <li>
                     <div className="single-skill-bar mb-15">
@@ -628,7 +628,7 @@ const Index3 = () => {
               </div>
             </div>
             <div className="col-xl-6 col-lg-12">
-              {/*====== Skills Image Box ======*/}
+              {/*====== Skills Image Box ======
               <div className="skill-two_image-box mb-20 p-r z-1 wow fadeInRight">
                 <img
                   src="assets/images/skill/skill-4.jpg"
@@ -650,7 +650,7 @@ const Index3 = () => {
             </div>
           </div>
         </div>
-      </section>
+      </section> */}
       {/*====== End Skills Section  ======*/}
       {/*====== Start CTA Section ======*/}
       <section className="cta-section">
@@ -790,11 +790,11 @@ const Index3 = () => {
       </section>
       {/*====== End Gallery Section ======*/}
       {/*====== Start Pricing Section ======*/}
-      <section className="pricing-section pt-95 pb-60">
+      {/*<section className="pricing-section pt-95 pb-60">
         <div className="container">
           <div className="row justify-content-center">
             <div className="col-xl-6 col-lg-12">
-              {/*====== Section-title ======*/}
+              {/*====== Section-title ======
               <div className="section-title text-center mb-50 wow fadeInDown">
                 <span className="sub-title">
                   <i className="flaticon-plant" />
@@ -806,7 +806,7 @@ const Index3 = () => {
           </div>
           <div className="row justify-content-center">
             <div className="col-lg-4 col-md-6 col-sm-12">
-              {/*====== Pricing Item ======*/}
+              {/*====== Pricing Item ======
               <div
                 className="single-pricing-item mb-40 wow fadeInUp"
                 data-wow-delay=".2s"
@@ -858,7 +858,7 @@ const Index3 = () => {
               </div>
             </div>
             <div className="col-lg-4 col-md-6 col-sm-12">
-              {/*====== Pricing Item ======*/}
+              {/*====== Pricing Item ======
               <div
                 className="single-pricing-item mb-40 wow fadeInUp"
                 data-wow-delay=".25s"
@@ -910,7 +910,7 @@ const Index3 = () => {
               </div>
             </div>
             <div className="col-lg-4 col-md-6 col-sm-12">
-              {/*====== Pricing Item ======*/}
+              {/*====== Pricing Item ======
               <div
                 className="single-pricing-item mb-40 wow fadeInUp"
                 data-wow-delay=".3s"
@@ -963,10 +963,10 @@ const Index3 = () => {
             </div>
           </div>
         </div>
-      </section>
+      </section> */}
       {/*====== End Pricing Section ======*/}
       {/*====== Start Testimonial Section  ======*/}
-      <section className="testimonial-section">
+      <section className="testimonial-section" id="testimonios">
         <div className="container-fluid">
           {/*====== Testimonial Wrapper ======*/}
           <div className="testimonial-wrapper main-bg wow fadeInDown">
@@ -1165,7 +1165,7 @@ const Index3 = () => {
       </section>
       {/*====== End Testimonial Section  ======*/}
       {/*====== Start Blog Section  ======*/}
-      <section className="blog-section pt-100 pb-60">
+      {/*<section className="blog-section pt-100 pb-60">
         <div className="container">
           <div className="row justify-content-center">
             <div className="col-xl-7 col-lg-12">
@@ -1180,7 +1180,7 @@ const Index3 = () => {
           </div>
           <div className="row justify-content-center">
             <div className="col-xl-4 col-md-6 col-sm-12">
-              {/*====== Single Blog Post  ======*/}
+              {/*====== Single Blog Post  ======
               <div
                 className="single-blog-post-two mb-40 wow wow fadeInUp"
                 data-wow-delay=".2s"
@@ -1225,7 +1225,7 @@ const Index3 = () => {
               </div>
             </div>
             <div className="col-xl-4 col-md-6 col-sm-12">
-              {/*====== Single Blog Post  ======*/}
+              {/*====== Single Blog Post  ======
               <div
                 className="single-blog-post-two mb-40 wow fadeInDown"
                 data-wow-delay=".25s"
@@ -1270,7 +1270,7 @@ const Index3 = () => {
               </div>
             </div>
             <div className="col-xl-4 col-md-6 col-sm-12">
-              {/*====== Single Blog Post  ======*/}
+              {/*====== Single Blog Post  ======
               <div
                 className="single-blog-post-two mb-40 wow fadeInUp"
                 data-wow-delay=".3s"
@@ -1316,8 +1316,163 @@ const Index3 = () => {
             </div>
           </div>
         </div>
-      </section>
+      </section> */}
       {/*====== End Blog Section  ======*/}
+      <section className="contact-info-section pt-100">
+        <div className="container">
+          <div className="contact-info-wrapper wow fadeInUp">
+            <div className="row no-gutters justify-content-center">
+              <div className="col-lg-4 col-md-6">
+                {/*====== Contact Info Item ======*/}
+                <div className="contact-info-item text-center">
+                  <div className="icon">
+                    <img src="assets/images/icon/icon-1.png" alt="icon" />
+                  </div>
+                  <div className="info">
+                    <span className="title">Ubicación</span>
+                    <h6>Av. Víctor Andrés Belaúnde 526, Umacollo - Yanahuara</h6>
+                  </div>
+                </div>
+              </div>
+              <div className="col-lg-4 col-md-6">
+                {/*====== Contact Info Item ======*/}
+                <div className="contact-info-item text-center">
+                  <div className="icon">
+                    <img src="assets/images/icon/icon-2.png" alt="icon" />
+                  </div>
+                  <div className="info">
+                    <span className="title">Email</span>
+                    <h6>
+                      <a href="mailto:support@gmail.com">comercial@ocean.com.pe</a>
+                    </h6>
+                    <h6>
+                      <a href="mailto:infogarden.net">infogarden.net</a>
+                    </h6>
+                  </div>
+                </div>
+              </div>
+              <div className="col-lg-4 col-md-6">
+                {/*====== Contact Info Item ======*/}
+                <div className="contact-info-item text-center">
+                  <div className="icon">
+                    <img src="assets/images/icon/icon-3.png" alt="icon" />
+                  </div>
+                  <div className="info">
+                    <span className="title">Teléfono</span>
+                    <h6>
+                      <a href="tel:+000(123)45688">+51 905 446 254</a>
+                    </h6>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      {/*====== End Contact Info section ======*/}
+      {/*====== Start Contact section ======*/}
+      <section className="contact-section pt-95 pb-50" id="contact">
+        <div className="container">
+          <div className="row">
+            <div className="col-lg-5">
+              {/*====== Section-title ======*/}
+              <div className="section-title wow fadeInRight mb-50">
+                <span className="sub-title">
+                  <i className="flaticon-plant" />
+                  Contact Us
+                </span>
+                <h2>Ready to Work With Us</h2>
+              </div>
+            </div>
+          </div>
+          <div className="contact-wrapper">
+            <div className="row">
+              <div className="col-lg-6">
+                {/*=== Map Box ===*/}
+                <div className="map-box wow fadeInLeft mb-50">
+                  <iframe src="https://maps.google.com/maps?q=new%20york&t=&z=13&ie=UTF8&iwloc=&output=embed" />
+                </div>
+              </div>
+              <div className="col-lg-6">
+                {/*====== Contact Form Wrapper ======*/}
+                <div className="contact-form-wrapper mb-50 wow fadeInRight">
+                  <form
+                    onSubmit={(e) => e.preventDefault()}
+                    className="contact-form"
+                  >
+                    <div className="form_group">
+                      <label>
+                        <i className="far fa-user" />
+                      </label>
+                      <input
+                        type="text"
+                        className="form_control"
+                        placeholder="Nombre"
+                        name="name"
+                        required
+                      />
+                    </div>
+                    <div className="form_group">
+                      <label>
+                        <i className="far fa-envelope" />
+                      </label>
+                      <input
+                        type="email"
+                        className="form_control"
+                        placeholder="Email"
+                        name="email"
+                        required
+                      />
+                    </div>
+                    <div className="form_group">
+                      <label>
+                        <i className="far fa-phone-plus" />
+                      </label>
+                      <input
+                        type="text"
+                        className="form_control"
+                        placeholder="Num. Teléfono"
+                        name="number"
+                        required
+                      />
+                    </div>
+                    <div className="form_group">
+                      <label>
+                        <i className="far fa-map-marker-exclamation" />
+                      </label>
+                      <input
+                        type="text"
+                        className="form_control"
+                        placeholder="Título"
+                        name="subject"
+                        required
+                      />
+                    </div>
+                    <div className="form_group">
+                      <label>
+                        <i className="far fa-pen-fancy" />
+                      </label>
+                      <textarea
+                        className="form_control"
+                        rows={3}
+                        placeholder="Mensaje"
+                        name="message"
+                        defaultValue={""}
+                      />
+                    </div>
+                    <div className="form_group">
+                      <button className="main-btn primary-btn">
+                        Send Message
+                      </button>
+                    </div>
+                  </form>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      {/*====== End Contact section ======*/}
       {/*====== Start Partners Section ======*/}
       <Partners />
       {/*====== End Partners Section ======*/}
