@@ -23,7 +23,7 @@ const Index3 = () => {
                 className="image-layer bg_cover"
                 style={{
                   backgroundImage:
-                    "url(assets/images/hero/hero_two-slider-1.jpg)",
+                    "url(assets/images/hero/hero_two-slider-1.png)",
                 }}
               />
               <div className="container">
@@ -71,7 +71,7 @@ const Index3 = () => {
                 className="image-layer bg_cover"
                 style={{
                   backgroundImage:
-                    "url(assets/images/hero/hero_two-slider-2.jpg)",
+                    "url(assets/images/hero/hero_two-slider-2.png)",
                 }}
               />
               <div className="container">
@@ -119,7 +119,7 @@ const Index3 = () => {
                 className="image-layer bg_cover"
                 style={{
                   backgroundImage:
-                    "url(assets/images/hero/hero_two-slider-3.jpg)",
+                    "url(assets/images/hero/hero_two-slider-3.png)",
                 }}
               />
               <div className="container">
@@ -200,7 +200,7 @@ const Index3 = () => {
               >
                 <div className="thumb">
                   <img
-                    src="assets/images/features/features-6.jpg"
+                    src="assets/images/features/ubicacion.png"
                     alt="Image"
                   />
                 </div>
@@ -220,7 +220,7 @@ const Index3 = () => {
               >
                 <div className="thumb">
                   <img
-                    src="assets/images/features/features-7.jpg"
+                    src="assets/images/features/club.png"
                     alt="Image"
                   />
                 </div>
@@ -228,7 +228,7 @@ const Index3 = () => {
                   <div className="icon">
                     <i className="flaticon-watering-can" />
                   </div>
-                  <h5 className="title">Club &amp; Privado</h5>
+                  <h5 className="title">Club Privado</h5>
                   <p>Acceso a club privado</p>
                 </div>
               </div>
@@ -240,7 +240,7 @@ const Index3 = () => {
               >
                 <div className="thumb">
                   <img
-                    src="assets/images/features/features-8.jpg"
+                    src="assets/images/features/infraestructura.png"
                     alt="Image"
                   />
                 </div>
@@ -260,7 +260,7 @@ const Index3 = () => {
               >
                 <div className="thumb">
                   <img
-                    src="assets/images/features/features-9.jpg"
+                    src="assets/images/features/piscina2.png"
                     alt="Image"
                   />
                 </div>

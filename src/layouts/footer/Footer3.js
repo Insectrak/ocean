@@ -47,26 +47,26 @@ const Footer3 = () => {
                       Quis autem eum reprehenderit volutate velit quam molestiae
                       conseuatur{" "}
                     </p>
-                    <Link legacyBehavior href="/contact">
+                    {/*<Link legacyBehavior href="/contact">
                       <a className="main-btn filled-btn filled-white">
                         Contact Us
                       </a>
-                    </Link>
+                    </Link> */}
                   </div>
                 </div>
               </div>
               <div className="col-lg-3 col-md-6 col-sm-12">
                 {/*====== Footer Widget ======*/}
                 <div className="footer-widget contact-info-widget mb-40 wow fadeInUp">
-                  <h4 className="widget-title">Get In Touch</h4>
+                  <h4 className="widget-title">Contáctanos</h4>
                   <div className="widget-content">
                     <ul className="info-list">
-                      <li>558 Main Street, 2nd Block Melbourne, Australia</li>
+                      <li>Av. Víctor Andrés Belaúnde 526, Umacollo - Yanahuara</li>
                       <li>
-                        <a href="mailto:support@gmail.com">support@gmail.com</a>
+                        <a href="mailto:support@gmail.com">comercial@ocean.com.pe</a>
                       </li>
                       <li>
-                        <a href="tel:+000(123)45688">+000 (123) 456 88</a>
+                        <a href="tel:+000(123)45688">+51 905 446 254</a>
                       </li>
                     </ul>
                   </div>
@@ -75,20 +75,20 @@ const Footer3 = () => {
               <div className="col-lg-2 col-md-6 col-sm-12">
                 {/*====== Footer Widget ======*/}
                 <div className="footer-widget footer-nav-widget mb-40 wow fadeInDown">
-                  <h4 className="widget-title">Quick Link</h4>
+                  <h4 className="widget-title">Menu Rápido</h4>
                   <div className="widget-content">
                     <ul className="footer-nav">
                       <li>
-                        <a href="#">About Company</a>
+                        <a href="#">Nosotros</a>
                       </li>
                       <li>
-                        <a href="#">Popular Services</a>
+                        <a href="#">Amenidades</a>
                       </li>
                       <li>
-                        <a href="#">Need a Career ?</a>
+                        <a href="#">Testimonios</a>
                       </li>
                       <li>
-                        <a href="#">Meet Our Team</a>
+                        <a href="#">Contacto</a>
                       </li>
                     </ul>
                   </div>
@@ -97,7 +97,7 @@ const Footer3 = () => {
               <div className="col-lg-3 col-md-6 col-sm-6">
                 {/*====== Footer Widget ======*/}
                 <div className="footer-widget footer-gallery-widget float-lg-right mb-40 wow fadeInUp">
-                  <h4 className="widget-title">Gallery</h4>
+                  <h4 className="widget-title">Galería</h4>
                   <div className="widget-content">
                     <ul className="gallery-list">
                       <li>
@@ -178,7 +178,7 @@ const Footer3 = () => {
               <div className="col-lg-6">
                 {/*====== Copyright Text ======*/}
                 <div className="copyright-text">
-                  <p>Copy© 2023 Gadden. All Rights Reserved.</p>
+                  <p>Copyright© 2025 Ocean</p>
                 </div>
               </div>
               <div className="col-lg-6">
@@ -186,13 +186,13 @@ const Footer3 = () => {
                 <div className="copyright-nav float-lg-right">
                   <ul>
                     <li>
-                      <a href="#">Setting &amp; Privacy</a>
+                      <a href="#">Privacidad</a>
                     </li>
                     <li>
-                      <a href="#">Faqs</a>
+                      <a href="#">Preguntas Frecuentes</a>
                     </li>
                     <li>
-                      <a href="#">Food Menu</a>
+                      <a href="#">Libro de reclamaciones</a>
                     </li>
                   </ul>
                 </div>
