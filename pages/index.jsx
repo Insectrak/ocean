@@ -395,7 +395,7 @@ const Index3 = () => {
                     </a>
                   </Link>
                   <img
-                    src="assets/images/service/sv-1.jpg"
+                    src="assets/images/service/sv-1.png"
                     alt="Service Image"
                   />
                 </div>
@@ -427,7 +427,7 @@ const Index3 = () => {
                     </a>
                   </Link>
                   <img
-                    src="assets/images/service/sv-2.jpg"
+                    src="assets/images/service/sv-2.png"
                     alt="Service Image"
                   />
                 </div>
@@ -459,7 +459,7 @@ const Index3 = () => {
                     </a>
                   </Link>
                   <img
-                    src="assets/images/service/sv-3.jpg"
+                    src="assets/images/service/sv-3.png"
                     alt="Service Image"
                   />
                 </div>
@@ -491,7 +491,7 @@ const Index3 = () => {
                     </a>
                   </Link>
                   <img
-                    src="assets/images/service/sv-4.jpg"
+                    src="assets/images/service/sv-4.png"
                     alt="Service Image"
                   />
                 </div>
@@ -523,7 +523,7 @@ const Index3 = () => {
                     </a>
                   </Link>
                   <img
-                    src="assets/images/service/sv-5.jpg"
+                    src="assets/images/service/sv-5.png"
                     alt="Service Image"
                   />
                 </div>
@@ -544,7 +544,7 @@ const Index3 = () => {
                   </div>
                   <h4 className="title">
                     <Link legacyBehavior href="/service-details">
-                      <a>Yard Maintaince</a>
+                      <a>Zona de descanso</a>
                     </Link>
                   </h4>
                 </div>
@@ -555,7 +555,7 @@ const Index3 = () => {
                     </a>
                   </Link>
                   <img
-                    src="assets/images/service/sv-6.jpg"
+                    src="assets/images/service/sv-6.png"
                     alt="Service Image"
                   />
                 </div>
