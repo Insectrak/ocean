@@ -362,9 +362,9 @@ const Index3 = () => {
               <div className="section-title text-white text-center mb-50 wow fadeInDown">
                 <span className="sub-title">
                   <i className="flaticon-plant" />
-                  Popular Services
+                  Servicios y Amenidades
                 </span>
-                <h2>We Care Your Garden &amp; Landscape</h2>
+                <h2>Lo que te espera en Ocean</h2>
               </div>
             </div>
           </div>
@@ -384,7 +384,7 @@ const Index3 = () => {
                   </div>
                   <h4 className="title">
                     <Link legacyBehavior href="/service-details">
-                      <a>Yard Cleaning</a>
+                      <a>Club Privado</a>
                     </Link>
                   </h4>
                 </div>
@@ -416,7 +416,7 @@ const Index3 = () => {
                   </div>
                   <h4 className="title">
                     <Link legacyBehavior href="/service-details">
-                      <a>Garden Makeup</a>
+                      <a>Piscina</a>
                     </Link>
                   </h4>
                 </div>
@@ -448,7 +448,7 @@ const Index3 = () => {
                   </div>
                   <h4 className="title">
                     <Link legacyBehavior href="/service-details">
-                      <a>Landscaping</a>
+                      <a>Parques recreativos</a>
                     </Link>
                   </h4>
                 </div>
@@ -480,7 +480,7 @@ const Index3 = () => {
                   </div>
                   <h4 className="title">
                     <Link legacyBehavior href="/service-details">
-                      <a>Lawn Mowing</a>
+                      <a>Canchas deportivas</a>
                     </Link>
                   </h4>
                 </div>
@@ -512,7 +512,7 @@ const Index3 = () => {
                   </div>
                   <h4 className="title">
                     <Link legacyBehavior href="/service-details">
-                      <a>Decorative Plants</a>
+                      <a>Vías afirmadas</a>
                     </Link>
                   </h4>
                 </div>
@@ -666,16 +666,16 @@ const Index3 = () => {
                     className="circle-logo"
                     alt="Circle Logo"
                   />
-                  <h2>Looking For a Experience Garden Specialist?</h2>
+                  <h2>Testimonios</h2>
                 </div>
               </div>
               <div className="col-lg-3">
                 {/*====== CTA Button ======*/}
-                <div className="cta-button float-lg-right mb-40 wow fadeInRight">
+                {/*<div className="cta-button float-lg-right mb-40 wow fadeInRight">
                   <Link legacyBehavior href="/team">
                     <a className="main-btn golden-btn">Find Specialist</a>
                   </Link>
-                </div>
+                </div> */}
               </div>
             </div>
           </div>
