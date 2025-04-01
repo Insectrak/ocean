@@ -138,34 +138,7 @@ ul.check-style-one{
     }
 }
 
-.experience-box-two{
-    @extend %gray-bg;
-    border-radius: 0px 0px 100px 100px;
-    max-width: 200px;
-    text-align: center;
-    padding: 25px 40px 35px;
-    border: 1px solid $primary-color;
-    border-top: 5px solid $primary-color;
-    & h2.number{
-        margin-bottom: 15px;
-    }
-    & h6{
-        @extend %secondary-color;
-        font-family: $body-font;
-        width: min-content;
-        margin: 0 auto;
-        margin-bottom: 25px;
-    }
-    & .icon-btn{
-        width: 55px;
-        height: 55px;
-        @include border-radius(50%);
-        @extend %primary-bg;
-        color: #fff;
-        @extend %flex-center;
-        display: inline-flex;
-    }
-}
+
 
 /*--==== Client Avatar Box ====--*/
 

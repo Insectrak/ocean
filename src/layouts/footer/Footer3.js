@@ -96,7 +96,7 @@ const Footer3 = () => {
               </div>
               <div className="col-lg-3 col-md-6 col-sm-6">
                 {/*====== Footer Widget ======*/}
-                <div className="footer-widget footer-gallery-widget float-lg-right mb-40 wow fadeInUp">
+                {/*<div className="footer-widget footer-gallery-widget float-lg-right mb-40 wow fadeInUp">
                   <h4 className="widget-title">Galería</h4>
                   <div className="widget-content">
                     <ul className="gallery-list">
@@ -168,7 +168,7 @@ const Footer3 = () => {
                       </li>
                     </ul>
                   </div>
-                </div>
+                </div> */}
               </div>
             </div>
           </div>

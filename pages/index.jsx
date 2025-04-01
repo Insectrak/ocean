@@ -326,9 +326,9 @@ const Index3 = () => {
                     </div>
                     <div className="experience-box-two">
                       <h2 className="number">
-                        <Counter end={5000} />m2 +
+                        <Counter end={5000} /> m2 +
                       </h2>
-                      <h6>De áreas verde</h6>
+                      <h6>Metros de Áreas verdes</h6>
                       {/*<Link legacyBehavior href="/about">
                         <a className="icon-btn">
                           <i className="far fa-arrow-right" />
@@ -1386,7 +1386,7 @@ const Index3 = () => {
               <div className="col-lg-6">
                 {/*=== Map Box ===*/}
                 <div className="map-box wow fadeInLeft mb-50">
-                  <iframe src="https://maps.google.com/maps?q=new%20york&t=&z=13&ie=UTF8&iwloc=&output=embed" />
+                  <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d956.8543241952443!2d-71.55118773270202!3d-16.40361966524246!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTbCsDI0JzEyLjciUyA3McKwMzMnMDUuOCJX!5e0!3m2!1ses!2scl!4v1743547600157!5m2!1ses!2scl"/>
                 </div>
               </div>
               <div className="col-lg-6">
