@@ -293,42 +293,47 @@ const Index3 = () => {
                   <div className="section-title mb-50">
                     <span className="sub-title">
                       <i className="flaticon-plant" />
-                      About Gardening
+                      Ocean
                     </span>
-                    <h2>We Care Your Garden &amp; Landscaping</h2>
+                    <h2>Seguridad y Exclusividad</h2>
                   </div>
                   <p className="mb-45">
-                    Sed ut perspiciatis unde omnis iste natus voluptatem
-                    accusantiue doloremque laudantium totam rem aperiam, eaque
-                    ipsa quae abilloy inventore veritatis et quasi architecto
-                    beatae vitae dicta sunt
+                    Ocean Condominios es un desarrollo exclusivo en Camaná, diseñado como una mini ciudad privada con condominios, un club exclusivo y una zona comercial. Es una inversión de alta plusvalía para disfrutar todo el año-
                   </p>
                   <div className="about-inner-content d-flex justify-content-between">
                     <div className="inner-content">
                       <ul className="check-style-one mb-45">
                         <li>
                           <i className="far fa-check" />
-                          We’re Experience Gardening
+                          Condominios Privados: Con urbanización de primer nivel.
                         </li>
                         <li>
                           <i className="far fa-check" />
-                          Awards Winning &amp; Expert Team Member
+                          Club Ocean: El Mas Grande de Arequipa, con piscina, spa y canchas deportivas.
+                        </li>
+                        <li>
+                          <i className="far fa-check" />
+                          Zona Comercial con tiendas, restaurantes y cine.
+                        </li>
+                        <li>
+                          <i className="far fa-check" />
+                          Áreas Recreativas: Parques , zona de parrillas y fogatas.
                         </li>
                       </ul>
-                      <Link legacyBehavior href="/about">
+                      {/*<Link legacyBehavior href="/about">
                         <a className="main-btn primary-btn">Learn More Us</a>
-                      </Link>
+                      </Link> */}
                     </div>
                     <div className="experience-box-two">
                       <h2 className="number">
-                        <Counter end={25} />+
+                        <Counter end={5000} />m2 +
                       </h2>
-                      <h6>Years Of Experience</h6>
-                      <Link legacyBehavior href="/about">
+                      <h6>De áreas verde</h6>
+                      {/*<Link legacyBehavior href="/about">
                         <a className="icon-btn">
                           <i className="far fa-arrow-right" />
                         </a>
-                      </Link>
+                      </Link> */}
                     </div>
                   </div>
                 </div>
