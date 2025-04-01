@@ -385,7 +385,7 @@ const Index3 = () => {
                     <i className="flaticon-agriculture" />
                   </div>
                   <div className="icon">
-                    <i className="flaticon-agriculture" />
+                    <img className="imgserv" src="assets/images/service/club.png"/>
                   </div>
                   <h4 className="title">
                     <Link legacyBehavior href="/service-details">
@@ -417,7 +417,7 @@ const Index3 = () => {
                     <i className="flaticon-field-1" />
                   </div>
                   <div className="icon">
-                    <i className="flaticon-field-1" />
+                  <img className="imgserv" src="assets/images/service/pisci.png"/>
                   </div>
                   <h4 className="title">
                     <Link legacyBehavior href="/service-details">
@@ -449,7 +449,7 @@ const Index3 = () => {
                     <i className="flaticon-farming" />
                   </div>
                   <div className="icon">
-                    <i className="flaticon-farming" />
+                  <img className="imgserv" src="assets/images/service/playa.png"/>
                   </div>
                   <h4 className="title">
                     <Link legacyBehavior href="/service-details">
@@ -481,7 +481,7 @@ const Index3 = () => {
                     <i className="flaticon-park" />
                   </div>
                   <div className="icon">
-                    <i className="flaticon-park" />
+                  <img className="imgserv" src="assets/images/service/deporte.png"/>
                   </div>
                   <h4 className="title">
                     <Link legacyBehavior href="/service-details">
@@ -513,7 +513,7 @@ const Index3 = () => {
                     <i className="flaticon-rake" />
                   </div>
                   <div className="icon">
-                    <i className="flaticon-rake" />
+                  <img className="imgserv" src="assets/images/service/vias.png"/>
                   </div>
                   <h4 className="title">
                     <Link legacyBehavior href="/service-details">
@@ -545,7 +545,7 @@ const Index3 = () => {
                     <i className="flaticon-growth-1" />
                   </div>
                   <div className="icon">
-                    <i className="flaticon-growth-1" />
+                  <img className="imgserv" src="assets/images/service/descanso.png"/>
                   </div>
                   <h4 className="title">
                     <Link legacyBehavior href="/service-details">
@@ -667,7 +667,7 @@ const Index3 = () => {
                 {/*====== CTA Content Box ======*/}
                 <div className="cta-content-box d-flex align-items-center mb-40 wow fadeInLeft">
                   <img
-                    src="assets/images/gallery/circle-logo.png"
+                    src="assets/images/service/playa.png"
                     className="circle-logo"
                     alt="Circle Logo"
                   />
@@ -698,7 +698,7 @@ const Index3 = () => {
             {/*====== Project Item ======*/}
             <div className="single-project-item-two">
               <div className="project-img">
-                <img src="assets/images/gallery/gl-4.jpg" alt="Gallery Image" />
+                <img src="assets/images/gallery/1g.jpg" alt="Gallery Image" />
                 <div className="project-overlay">
                   <a href="#" className="icon-btn">
                     <i className="far fa-arrow-right" />
@@ -717,7 +717,7 @@ const Index3 = () => {
             {/*====== Project Item ======*/}
             <div className="single-project-item-two">
               <div className="project-img">
-                <img src="assets/images/gallery/gl-5.jpg" alt="Gallery Image" />
+                <img src="assets/images/gallery/2g.jpg" alt="Gallery Image" />
                 <div className="project-overlay">
                   <a href="#" className="icon-btn">
                     <i className="far fa-arrow-right" />
@@ -736,7 +736,7 @@ const Index3 = () => {
             {/*====== Project Item ======*/}
             <div className="single-project-item-two">
               <div className="project-img">
-                <img src="assets/images/gallery/gl-6.jpg" alt="Gallery Image" />
+                <img src="assets/images/gallery/3g.jpg" alt="Gallery Image" />
                 <div className="project-overlay">
                   <a href="#" className="icon-btn">
                     <i className="far fa-arrow-right" />
@@ -755,7 +755,7 @@ const Index3 = () => {
             {/*====== Project Item ======*/}
             <div className="single-project-item-two">
               <div className="project-img">
-                <img src="assets/images/gallery/gl-7.jpg" alt="Gallery Image" />
+                <img src="assets/images/gallery/4g.jpg" alt="Gallery Image" />
                 <div className="project-overlay">
                   <a href="#" className="icon-btn">
                     <i className="far fa-arrow-right" />
@@ -774,7 +774,7 @@ const Index3 = () => {
             {/*====== Project Item ======*/}
             <div className="single-project-item-two">
               <div className="project-img">
-                <img src="assets/images/gallery/gl-6.jpg" alt="Gallery Image" />
+                <img src="assets/images/gallery/5g.jpg" alt="Gallery Image" />
                 <div className="project-overlay">
                   <a href="#" className="icon-btn">
                     <i className="far fa-arrow-right" />
