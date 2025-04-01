@@ -977,17 +977,17 @@ const Index3 = () => {
           <div className="testimonial-wrapper main-bg wow fadeInDown">
             <div className="shape shape-one">
               <span>
-                <img src="assets/images/testimonial/img-1.jpg" alt="image" />
+                <img src="assets/images/testimonial/img-1.png" alt="image" />
               </span>
             </div>
             <div className="shape shape-two">
               <span>
-                <img src="assets/images/testimonial/img-2.jpg" alt="image" />
+                <img src="assets/images/testimonial/img-2.png" alt="image" />
               </span>
             </div>
             <div className="shape shape-three">
               <span>
-                <img src="assets/images/testimonial/img-3.jpg" alt="image" />
+                <img src="assets/images/testimonial/img-3.png" alt="image" />
               </span>
             </div>
             <div className="shape shape-four">
@@ -1024,7 +1024,7 @@ const Index3 = () => {
                           />
                         </div>
                         <div className="ratings-box">
-                          <h3>Quality Services</h3>
+                          <h3>¡Cumpli mi sueño de la casa de playa!</h3>
                           <ul className="ratings">
                             <li>
                               <i className="fas fa-star" />
@@ -1045,10 +1045,7 @@ const Index3 = () => {
                         </div>
                       </div>
                       <p>
-                        Sed persiciatis unde omnis iste natus voluptatem
-                        accusantium doloremquey laudantium totam rem aperiam
-                        eaque psa quae abillo inventore veritatis quas
-                        architecto beatae dicta explicabo
+                      Hace tiempo pase pro camana y vi que la zona crecía, luego conocí la propuesta de Ocean Condominios y me encanto porque ya tenían obras , no era un sueño incierto ¡Ya podía verlo! Entonces me anime a comprar mi lote con ellos. La atención y la asesoría muy buenos.  Los recomiendo siempre!
                       </p>
                       <div className="author-thumb-title">
                         <div className="author-thumb">
@@ -1058,8 +1055,8 @@ const Index3 = () => {
                           />
                         </div>
                         <div className="author-title">
-                          <h6 className="title">Douglas D. Hall</h6>
-                          <p className="position">CEO &amp; Founder</p>
+                          <h6 className="title">Elizabeth Mella</h6>
+                          <p className="position">Arequipa</p>
                         </div>
                       </div>
                     </div>
@@ -1073,7 +1070,7 @@ const Index3 = () => {
                           />
                         </div>
                         <div className="ratings-box">
-                          <h3>Quality Services</h3>
+                        <h3>¡Cumpli mi sueño de la casa de playa!</h3>
                           <ul className="ratings">
                             <li>
                               <i className="fas fa-star" />
@@ -1094,10 +1091,7 @@ const Index3 = () => {
                         </div>
                       </div>
                       <p>
-                        Sed persiciatis unde omnis iste natus voluptatem
-                        accusantium doloremquey laudantium totam rem aperiam
-                        eaque psa quae abillo inventore veritatis quas
-                        architecto beatae dicta explicabo
+                      Hace tiempo pase pro camana y vi que la zona crecía, luego conocí la propuesta de Ocean Condominios y me encanto porque ya tenían obras , no era un sueño incierto ¡Ya podía verlo! Entonces me anime a comprar mi lote con ellos. La atención y la asesoría muy buenos.  Los recomiendo siempre!
                       </p>
                       <div className="author-thumb-title">
                         <div className="author-thumb">
@@ -1107,8 +1101,8 @@ const Index3 = () => {
                           />
                         </div>
                         <div className="author-title">
-                          <h6 className="title">Douglas D. Hall</h6>
-                          <p className="position">CEO &amp; Founder</p>
+                          <h6 className="title">Elizabeth Mella</h6>
+                          <p className="position">Arequipa</p>
                         </div>
                       </div>
                     </div>
@@ -1122,7 +1116,7 @@ const Index3 = () => {
                           />
                         </div>
                         <div className="ratings-box">
-                          <h3>Quality Services</h3>
+                        <h3>¡Cumpli mi sueño de la casa de playa!</h3>
                           <ul className="ratings">
                             <li>
                               <i className="fas fa-star" />
@@ -1143,10 +1137,7 @@ const Index3 = () => {
                         </div>
                       </div>
                       <p>
-                        Sed persiciatis unde omnis iste natus voluptatem
-                        accusantium doloremquey laudantium totam rem aperiam
-                        eaque psa quae abillo inventore veritatis quas
-                        architecto beatae dicta explicabo
+                      Hace tiempo pase pro camana y vi que la zona crecía, luego conocí la propuesta de Ocean Condominios y me encanto porque ya tenían obras , no era un sueño incierto ¡Ya podía verlo! Entonces me anime a comprar mi lote con ellos. La atención y la asesoría muy buenos.  Los recomiendo siempre!
                       </p>
                       <div className="author-thumb-title">
                         <div className="author-thumb">
@@ -1156,8 +1147,8 @@ const Index3 = () => {
                           />
                         </div>
                         <div className="author-title">
-                          <h6 className="title">Douglas D. Hall</h6>
-                          <p className="position">CEO &amp; Founder</p>
+                          <h6 className="title">Elizabeth Mella</h6>
+                          <p className="position">Arequipa</p>
                         </div>
                       </div>
                     </div>
