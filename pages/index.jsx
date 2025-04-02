@@ -639,12 +639,12 @@ const Index3 = () => {
               {/*====== Skills Image Box ======*/}
               <div className="skill-two_image-box mb-20 p-r z-1 wow fadeInRight">
                 <img
-                  src="assets/images/skill/skill-4.jpg"
+                  src="assets/images/skill/skill-4.png"
                   className="skill-img-one"
                   alt="Skill Image"
                 />
                 <img
-                  src="assets/images/skill/skill-5.jpg"
+                  src="assets/images/skill/skill-5.png"
                   className="skill-img-two"
                   alt="Skill Image"
                 />
