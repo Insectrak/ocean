@@ -699,7 +699,7 @@ const Index3 = () => {
             <div className="single-project-item-two">
               <div className="project-img">
                 <img src="assets/images/gallery/1g.jpg" alt="Gallery Image" />
-                <div className="project-overlay">
+                {/*<div className="project-overlay">
                   <a href="#" className="icon-btn">
                     <i className="far fa-arrow-right" />
                   </a>
@@ -711,14 +711,14 @@ const Index3 = () => {
                     </h3>
                     <p>Water The Plants</p>
                   </div>
-                </div>
+                </div> */}
               </div>
             </div>
             {/*====== Project Item ======*/}
             <div className="single-project-item-two">
               <div className="project-img">
                 <img src="assets/images/gallery/2g.jpg" alt="Gallery Image" />
-                <div className="project-overlay">
+                {/*<div className="project-overlay">
                   <a href="#" className="icon-btn">
                     <i className="far fa-arrow-right" />
                   </a>
@@ -730,14 +730,14 @@ const Index3 = () => {
                     </h3>
                     <p>Water The Plants</p>
                   </div>
-                </div>
+                </div> */}
               </div>
             </div>
             {/*====== Project Item ======*/}
             <div className="single-project-item-two">
               <div className="project-img">
                 <img src="assets/images/gallery/3g.jpg" alt="Gallery Image" />
-                <div className="project-overlay">
+                {/*<div className="project-overlay">
                   <a href="#" className="icon-btn">
                     <i className="far fa-arrow-right" />
                   </a>
@@ -749,14 +749,14 @@ const Index3 = () => {
                     </h3>
                     <p>Water The Plants</p>
                   </div>
-                </div>
+                </div> */}
               </div>
             </div>
             {/*====== Project Item ======*/}
             <div className="single-project-item-two">
               <div className="project-img">
                 <img src="assets/images/gallery/4g.jpg" alt="Gallery Image" />
-                <div className="project-overlay">
+                {/*<div className="project-overlay">
                   <a href="#" className="icon-btn">
                     <i className="far fa-arrow-right" />
                   </a>
@@ -768,14 +768,14 @@ const Index3 = () => {
                     </h3>
                     <p>Water The Plants</p>
                   </div>
-                </div>
+                </div> */}
               </div>
             </div>
             {/*====== Project Item ======*/}
             <div className="single-project-item-two">
               <div className="project-img">
                 <img src="assets/images/gallery/5g.jpg" alt="Gallery Image" />
-                <div className="project-overlay">
+                {/*<div className="project-overlay">
                   <a href="#" className="icon-btn">
                     <i className="far fa-arrow-right" />
                   </a>
@@ -787,7 +787,7 @@ const Index3 = () => {
                     </h3>
                     <p>Water The Plants</p>
                   </div>
-                </div>
+                </div> */}
               </div>
             </div>
           </Slider>
