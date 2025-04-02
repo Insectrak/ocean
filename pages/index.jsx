@@ -584,52 +584,48 @@ const Index3 = () => {
                 <div className="section-title mb-25">
                   <span className="sub-title">
                     <i className="flaticon-plant" />
-                    We’re Skilled Full
+                    Ubicación Privilegiada
                   </span>
-                  <h2>Experience Gardening &amp; Landscape Center</h2>
+                  <h2>Vive donde el mar y la exclusividad se encuentran</h2>
                 </div>
                 <p className="mb-30">
-                  Sed ut perspiciatis unde omnis iste natus voluptatem
-                  accusantiue doloremque laudantium totam rem aperiam, eaque
-                  ipsa quae abilloy inventore veritatis et quasi architecto
-                  beatae vitae dicta sunt
-                </p>
+                Ocean Condominios está estratégicamente ubicado en la hermosa costa de Camaná, Arequipa, en una zona de gran proyección y desarrollo. Disfruta de la tranquilidad de la naturaleza sin renunciar a la comodidad de estar cerca de todo.</p>
                 {/*====== Skills List ======*/}
                 <ul className="skills-list">
                   <li>
                     <div className="single-skill-bar mb-15">
-                      <h5 className="title">Gardening</h5>
-                      <div className="progress-bar">
+                      <h5 className="title">A minutos de la Panamericana</h5>
+                      {/*<div className="progress-bar">
                         <div
                           className="progress wow slideInLeft"
                           style={{ width: "89%" }}
                         />
-                      </div>
-                      <span className="number">89%</span>
+                      </div> */}
+                      <i class="far fa-check"></i>
                     </div>
                   </li>
                   <li>
                     <div className="single-skill-bar mb-15">
-                      <h5 className="title">Landscape</h5>
-                      <div className="progress-bar">
+                      <h5 className="title">Frente a Cerrillos</h5>
+                      {/*<div className="progress-bar">
                         <div
                           className="progress wow slideInLeft"
                           style={{ width: "83%" }}
                         />
-                      </div>
-                      <span className="number">83%</span>
+                      </div> */}
+                      <i class="far fa-check"></i>
                     </div>
                   </li>
                   <li>
                     <div className="single-skill-bar mb-15">
-                      <h5 className="title">Maintenance</h5>
-                      <div className="progress-bar">
+                      <h5 className="title">Fácil acceso y conectividad</h5>
+                      {/*<div className="progress-bar">
                         <div
                           className="progress wow slideInLeft"
                           style={{ width: "93%" }}
                         />
-                      </div>
-                      <span className="number">93%</span>
+                      </div> */}
+                      <i class="far fa-check"></i>
                     </div>
                   </li>
                 </ul>

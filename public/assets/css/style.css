@@ -4051,7 +4051,7 @@ ul.check-style-one li i {
   -webkit-box-flex: 0;
       -ms-flex: 0 0 auto;
           flex: 0 0 auto;
-  width: 27%;
+  /*width: 27%; */
   -webkit-margin-end: 30px;
           margin-inline-end: 30px;
 }
