@@ -326,9 +326,9 @@ const Index3 = () => {
                     </div>
                     <div className="experience-box-two">
                       <h2 className="number">
-                        <Counter end={5000} /> m2 +
+                        <Counter end={103} />
                       </h2>
-                      <h6>Metros de Áreas verdes</h6>
+                      <h6>Terrenos</h6>
                       {/*<Link legacyBehavior href="/about">
                         <a className="icon-btn">
                           <i className="far fa-arrow-right" />
