@@ -650,8 +650,10 @@ const Index3 = () => {
                 />
                 <div className="circle-logo">
                   <div className="inner-circle">
-                    <i className="flaticon-carnivorous-plant" />
-                    <h5>Gadden</h5>
+                    <img
+                      src="assets/images/service/playa.png"
+                    />
+                    <h5>Ocean</h5>
                   </div>
                 </div>
               </div>
