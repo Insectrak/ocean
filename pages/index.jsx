@@ -574,13 +574,13 @@ const Index3 = () => {
       </section>
       {/*====== End Service Section ======*/}
       {/*====== Start Skills Section  ======*/}
-      {/*<section className="skills-section pt-100 pb-50">
+      <section className="skills-section pt-100 pb-50">
         <div className="container">
           <div className="row align-items-lg-center">
             <div className="col-xl-6 col-lg-12">
-              {/*====== Skill Content Box ======
+              {/*====== Skill Content Box ======*/}
               <div className="skill-content-box mb-35 mr-lg-50 wow fadeInLeft">
-                {/*====== Section-title ======
+                {/*====== Section-title ======*/}
                 <div className="section-title mb-25">
                   <span className="sub-title">
                     <i className="flaticon-plant" />
@@ -594,7 +594,7 @@ const Index3 = () => {
                   ipsa quae abilloy inventore veritatis et quasi architecto
                   beatae vitae dicta sunt
                 </p>
-                {/*====== Skills List ======
+                {/*====== Skills List ======*/}
                 <ul className="skills-list">
                   <li>
                     <div className="single-skill-bar mb-15">
@@ -636,7 +636,7 @@ const Index3 = () => {
               </div>
             </div>
             <div className="col-xl-6 col-lg-12">
-              {/*====== Skills Image Box ======
+              {/*====== Skills Image Box ======*/}
               <div className="skill-two_image-box mb-20 p-r z-1 wow fadeInRight">
                 <img
                   src="assets/images/skill/skill-4.jpg"
@@ -658,7 +658,7 @@ const Index3 = () => {
             </div>
           </div>
         </div>
-      </section> */}
+      </section>
       {/*====== End Skills Section  ======*/}
       {/*====== Start CTA Section ======*/}
       <section className="cta-section">
