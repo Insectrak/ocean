@@ -418,9 +418,10 @@ const Index3 = () => {
                   <img className="imgserv" src="assets/images/service/pisci.png"/>
                   </div>
                   <h4 className="title">
-                    <Link legacyBehavior href="/service-details">
+                    {/*<Link legacyBehavior href="/service-details">
                       <a>Piscina</a>
-                    </Link>
+                    </Link> */}
+                    <a>Piscina</a>
                   </h4>
                 </div>
                 <div className="service-img">
@@ -450,9 +451,10 @@ const Index3 = () => {
                   <img className="imgserv" src="assets/images/service/playa.png"/>
                   </div>
                   <h4 className="title">
-                    <Link legacyBehavior href="/service-details">
+                    {/*<Link legacyBehavior href="/service-details">
                       <a>Parques recreativos</a>
-                    </Link>
+                    </Link> */}
+                    <a>Parques recreativos</a>
                   </h4>
                 </div>
                 <div className="service-img">
@@ -482,9 +484,10 @@ const Index3 = () => {
                   <img className="imgserv" src="assets/images/service/deporte.png"/>
                   </div>
                   <h4 className="title">
-                    <Link legacyBehavior href="/service-details">
+                   {/*<Link legacyBehavior href="/service-details">
                       <a>Canchas deportivas</a>
-                    </Link>
+                    </Link> */}
+                    <a>Canchas deportivas</a>
                   </h4>
                 </div>
                 <div className="service-img">
@@ -514,9 +517,10 @@ const Index3 = () => {
                   <img className="imgserv" src="assets/images/service/vias.png"/>
                   </div>
                   <h4 className="title">
-                    <Link legacyBehavior href="/service-details">
+                    {/*<Link legacyBehavior href="/service-details">
                       <a>Vías afirmadas</a>
-                    </Link>
+                    </Link> */}
+                    <a>Vías afirmadas</a>
                   </h4>
                 </div>
                 <div className="service-img">
@@ -546,9 +550,10 @@ const Index3 = () => {
                   <img className="imgserv" src="assets/images/service/descanso.png"/>
                   </div>
                   <h4 className="title">
-                    <Link legacyBehavior href="/service-details">
+                    {/*<Link legacyBehavior href="/service-details">
                       <a>Zona de descanso</a>
-                    </Link>
+                    </Link> */}
+                    <a>Zona de descanso</a>
                   </h4>
                 </div>
                 <div className="service-img">
