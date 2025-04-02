@@ -1163,6 +1163,38 @@ const Index3 = () => {
         </div>
       </section>
       {/*====== End Testimonial Section  ======*/}
+      <section className="service-bgc-section p-r z-1 main-bg pt-150 pb-70" id="planos">
+        <div className="shape shape-one">
+          <span>
+            <img src="assets/images/shape/leaf-1.png" alt="Leaf Png" />
+          </span>
+        </div>
+        <div className="shape shape-two">
+          <span>
+            <img src="assets/images/shape/leaf-2.png" alt="Leaf Png" />
+          </span>
+        </div>
+        <div className="shape shape-three">
+          <span>
+            <img src="assets/images/shape/leaf-3.png" alt="Leaf Png" />
+          </span>
+        </div>
+        <div className="container">
+          <div className="row justify-content-center">
+            <div className="col-xl-9 col-lg-12">
+              {/*====== Section Title ======*/}
+              <div className="section-title text-white text-center mb-50 wow fadeInDown">
+                <span className="sub-title">
+                  <i className="flaticon-plant" />
+                  Planos
+                </span>
+                <h2>Descubre el proyecto</h2>
+              </div>
+            </div>
+            <img src="assets/images/plano.png"/>
+          </div>
+        </div>
+      </section>
       {/*====== Start Blog Section  ======*/}
       {/*<section className="blog-section pt-100 pb-60">
         <div className="container">
