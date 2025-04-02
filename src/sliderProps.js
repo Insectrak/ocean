@@ -206,7 +206,7 @@ export const sliderProps = {
     infinite: true,
     speed: 800,
     autoplay: true,
-    slidesToShow: 6,
+    slidesToShow: 3,
     slidesToScroll: 1,
     responsive: [
       {

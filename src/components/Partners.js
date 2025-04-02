@@ -39,7 +39,7 @@ const Partners = () => {
               </a>
             </div>
           </div>
-          <div className="single-partner-item">
+          {/*<div className="single-partner-item">
             <div className="partner-img">
               <a href="#">
                 <img
@@ -68,7 +68,7 @@ const Partners = () => {
                 />
               </a>
             </div>
-          </div>
+          </div> */}
         </Slider>
       </div>
     </section>
