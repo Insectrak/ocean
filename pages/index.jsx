@@ -388,17 +388,15 @@ const Index3 = () => {
                     <img className="imgserv" src="assets/images/service/club.png"/>
                   </div>
                   <h4 className="title">
-                    <Link legacyBehavior href="/service-details">
                       <a>Club Privado</a>
-                    </Link>
                   </h4>
                 </div>
                 <div className="service-img">
-                  <Link legacyBehavior href="/service-details">
+                  {/*<Link legacyBehavior href="/service-details">
                     <a className="icon-btn">
                       <i className="far fa-plus" />
                     </a>
-                  </Link>
+                  </Link> */}
                   <img
                     src="assets/images/service/sv-1.png"
                     alt="Service Image"
@@ -426,11 +424,11 @@ const Index3 = () => {
                   </h4>
                 </div>
                 <div className="service-img">
-                  <Link legacyBehavior href="/service-details">
+                  {/*<Link legacyBehavior href="/service-details">
                     <a className="icon-btn">
                       <i className="far fa-plus" />
                     </a>
-                  </Link>
+                  </Link> */}
                   <img
                     src="assets/images/service/sv-2.png"
                     alt="Service Image"
@@ -458,11 +456,11 @@ const Index3 = () => {
                   </h4>
                 </div>
                 <div className="service-img">
-                  <Link legacyBehavior href="/service-details">
+                  {/*<Link legacyBehavior href="/service-details">
                     <a className="icon-btn">
                       <i className="far fa-plus" />
                     </a>
-                  </Link>
+                  </Link> */}
                   <img
                     src="assets/images/service/sv-3.png"
                     alt="Service Image"
@@ -490,11 +488,11 @@ const Index3 = () => {
                   </h4>
                 </div>
                 <div className="service-img">
-                  <Link legacyBehavior href="/service-details">
+                  {/*<Link legacyBehavior href="/service-details">
                     <a className="icon-btn">
                       <i className="far fa-plus" />
                     </a>
-                  </Link>
+                  </Link> */}
                   <img
                     src="assets/images/service/sv-4.png"
                     alt="Service Image"
@@ -522,11 +520,11 @@ const Index3 = () => {
                   </h4>
                 </div>
                 <div className="service-img">
-                  <Link legacyBehavior href="/service-details">
+                  {/*<Link legacyBehavior href="/service-details">
                     <a className="icon-btn">
                       <i className="far fa-plus" />
                     </a>
-                  </Link>
+                  </Link> */}
                   <img
                     src="assets/images/service/sv-5.png"
                     alt="Service Image"
@@ -554,11 +552,11 @@ const Index3 = () => {
                   </h4>
                 </div>
                 <div className="service-img">
-                  <Link legacyBehavior href="/service-details">
+                  {/*<Link legacyBehavior href="/service-details">
                     <a className="icon-btn">
                       <i className="far fa-plus" />
                     </a>
-                  </Link>
+                  </Link> */}
                   <img
                     src="assets/images/service/sv-6.png"
                     alt="Service Image"
