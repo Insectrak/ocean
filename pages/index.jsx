@@ -78,7 +78,7 @@ const Index3 = () => {
                 <div className="row justify-content-center">
                   <div className="col-xl-10">
                     {/*====== Hero Content ======*/}
-                    <div className="hero-content text-left">
+                    <div className="hero-content text-center">
                       <span
                         className="sub-title"
                         data-animation="fadeInUp"
@@ -126,7 +126,7 @@ const Index3 = () => {
                 <div className="row justify-content-center">
                   <div className="col-xl-10">
                     {/*====== Hero Content ======*/}
-                    <div className="hero-content text-right">
+                    <div className="hero-content text-center">
                       <span
                         className="sub-title"
                         data-animation="fadeInUp"
